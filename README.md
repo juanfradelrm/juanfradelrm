@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://aristi.dev">Juanfradelrm</a> 👋</h1>
+</div>
+<img src="https://imgur.com/TXDE8yD">
 
-<!--
-**juanfradelrm/juanfradelrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.youtube.com/@Juanfradelrm)
 
-Here are some ideas to get you started:
+## Sobre mi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⭐ Estoy en el 3 año de Ingeniería Informática
+- ❤️ Disfruto mucho programando en Java
+- 💙 Disfruto mucho programando en Pythom
+
+<br>
+
+
+                                                                                      
